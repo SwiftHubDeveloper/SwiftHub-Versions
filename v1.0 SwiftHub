@@ -47,8 +47,8 @@ UpdateTab:CreateButton({
     Callback = function()
         Rayfield:Notify({
             Title = "Credits:",
-            Content = "🌐 • ScriptBlox: SwiftHubDev\n🌐 • Discord: prossreal",
-            Duration = 10
+            Content = "🌐 • ScriptBlox: SwiftHubDev\n🌐 • Discord: prossreal\n🌐 • GitHub: https://github.com/SwiftHubDeveloper",
+            Duration = 15
         })
     end
 })
@@ -406,9 +406,9 @@ OldTab:CreateButton({
     Name = "GitHub",
     Callback = function()
         Rayfield:Notify({
-            Title = "Old Versions:",
-            Content = "",
-            Duration = 5
+            Title = "Old\New Versions:",
+            Content = "https://github.com/SwiftHubDeveloper/SwiftHub-Versions",
+            Duration = 20
         })
         print("Clicked")
     end
