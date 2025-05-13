@@ -1,3 +1,3 @@
-# Last version: v1.0.
+# Last version: v1.1.
 # Scriptblox: SwiftHubDev
 # Discord: prossreal
